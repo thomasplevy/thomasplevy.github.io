@@ -1,0 +1,48 @@
+# Header
+menu:
+  Home: /
+  Archives: /archives
+  Categories: /categories
+  Github:
+    url: https://github.com/thomasplevy
+    icon: github
+  Instagram:
+    url: https://instagram.com/tom_weights
+    icon: instagram
+
+# Title on top left of menu. Leave empty to use main blog title
+menu_title: Thomas Patrick Levy
+
+# URL of the Home page image
+index_cover: https://source.unsplash.com/1600x900/?coffee,water,mountain,road
+
+# Default post title
+default_post_title: Untitled
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname:
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Addthis ID
+addthis:
+
+# set your own favicon
+favicon:
+
+# Social Accounts
+twitter_url:
+twitter_handle:
+facebook_url:
+github_url: https://github.com/thomasplevy
+gitlab_url:
+linkedin_url:
+mailto:
